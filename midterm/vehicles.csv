@@ -1,0 +1,17 @@
+vehicle_id,name,category,daily_rate_eur,seats,transmission,fuel_type,available,aliases
+C01,Toyota Yaris,Economy,39.00,5,automatic,hybrid,1,yaris|toyota yaris|small car
+C02,Volkswagen Polo,Economy,42.00,5,manual,petrol,1,polo|vw polo|small car
+C03,Renault Clio,Economy,41.00,5,manual,petrol,1,clio|renault clio
+C04,Volkswagen Golf,Compact,55.00,5,automatic,petrol,1,golf|vw golf|volkswagen golf
+C05,Toyota Corolla Hybrid,Compact,59.00,5,automatic,hybrid,1,corolla|toyota corolla|corolla hybrid
+C06,Dacia Spring,City,35.00,4,automatic,electric,1,spring|dacia spring|ev|elektro|電動車
+C07,Volkswagen ID.3,Compact,62.00,5,automatic,electric,1,id3|id 3|vw id3|vw id 3|ev|elektro|電動車
+C08,Tesla Model 3,Sedan,85.00,5,automatic,electric,1,model 3|model3|tesla model3|ev|elektro|電動車
+C09,Tesla Model Y,SUV,95.00,5,automatic,electric,0,model y|modely|tesla modely|ev|elektro|電動車
+C10,Mercedes-Benz A-Class,Premium compact,79.00,5,automatic,petrol,1,mercedes a|a class|a klasse|mercedes a class
+C11,Mercedes-Benz C-Class,Premium sedan,99.00,5,automatic,diesel,1,mercedes c|c class|c klasse|mercedes c class
+C12,BMW 3 Series,Premium sedan,105.00,5,automatic,diesel,0,bmw3|bmw 3|3 series|dreier
+C13,Skoda Octavia,Estate,65.00,5,automatic,diesel,1,octavia|skoda octavia|estate|kombi
+C14,Volkswagen Passat,Estate,75.00,5,automatic,diesel,1,passat|vw passat|estate|kombi
+C15,Volkswagen Touran,Family MPV,85.00,7,automatic,petrol,1,touran|vw touran|family|7 seater
+C16,Mercedes-Benz Vito,Van,110.00,9,automatic,diesel,0,vito|mercedes vito|van|9 seater

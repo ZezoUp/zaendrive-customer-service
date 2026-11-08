@@ -1,0 +1,15 @@
+topic,content
+opening_hours,Monday-Friday 08:00-18:00; Saturday 09:00-13:00; Sunday closed. Times are local to the fictional Waiblingen branch.
+address,"ZaenDrive Demo Depot, Building A, Example Mobility Campus, Waiblingen, Germany. This is a fictional address for coursework, not a real pickup location."
+payment,Credit cards and debit cards are accepted at pickup. Cash and cryptocurrency are not accepted. Prices are in EUR.
+driver_requirements,"In this fictional rental policy, drivers must be at least 21 and have held a valid driving licence for at least 2 years. This is a demo company rule, not legal advice."
+required_documents,"Bring a valid driving licence, passport or national ID, and a payment card in the main driver's name. Questions about foreign licence acceptance must be checked with staff."
+rental_rates,"{""currency"": ""EUR"", ""discount_min_days"": 7, ""discount_percent"": 10, ""discount_applies_to"": ""base rental only"", ""included_km_per_day"": 200, ""extra_km_eur"": ""0.25"", ""deposit_eur"": ""300.00"", ""tax_included"": true, ""extras_per_day_eur"": {""gps"": ""5.00"", ""child_seat"": ""4.00"", ""additional_driver"": ""8.00""}}"
+fuel_and_charging,Petrol and diesel vehicles must be returned with a full tank. Electric vehicles must be returned with at least 80% battery charge. Refuelling and charging costs are excluded from quotes; additional fee amounts are not in this demo database.
+cancellation,Cancellation is free at least 48 hours before pickup. Later cancellations incur one day of the undiscounted base rental rate. Staff must handle cancellation requests; this demo cannot modify a reservation.
+late_return,Contact staff before the agreed return time if you expect to be late. Exact late-return charges are not available in this database.
+reservations,"The assistant can provide information and quotes but cannot create, change or cancel a booking. Contact staff to request a reservation. The coursework contact is fictional."
+availability,The available flag is only a fixed demonstration snapshot. It does not represent a date-specific calendar. Ask staff to confirm a rental for specific dates.
+pickup_and_parking,Pickup and return take place at the fictional depot during opening hours. Short-term customer parking is available there. No one-way return service is offered.
+insurance,"The demo base price includes standard insurance. Excess amounts, exclusions, cross-border cover and optional coverage prices are not stored; refer these questions to staff."
+contact,Demo staff email: support@zaendrive.example. Staff hours: Monday-Friday 08:00-18:00 and Saturday 09:00-13:00. This example address does not reach a real service team; the app sends no messages.
